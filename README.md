@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oğuzhan erbil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuzhan erbil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/o%C4%9Fuzhan-erbil-859841217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuzhan erbil" height="30" width="40" /></a>
 <a href="https://instagram.com/oguzhan_erbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhan_erbl" height="30" width="40" /></a>
 <a href="https://discord.gg/403425991004782602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="403425991004782602" height="30" width="40" /></a>
 </p>
