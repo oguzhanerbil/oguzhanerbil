@@ -23,9 +23,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanerbil&show_icons=true&locale=en"  alt="oguzhanerbil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanerbil&show_icons=true&locale=en" height="150" alt="oguzhanerbil" />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanerbil&" alt="oguzhanerbil"  />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanerbil&" alt="oguzhanerbil" height="150" />
 
 </div>
 
