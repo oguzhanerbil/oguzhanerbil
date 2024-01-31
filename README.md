@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-erbil-859841217/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="oğuzhan erbil"  /></a>
 <a href="https://instagram.com/oguzhan_erbl" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="oguzhan_erbl" /></a>
 <a href="https://discord.gg/403425991004782602" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="403425991004782602"/></a>
+<a href="https://medium.com/https://medium.com/@oerbil06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@oerbil06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
